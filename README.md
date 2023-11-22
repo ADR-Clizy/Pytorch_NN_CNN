@@ -12,8 +12,8 @@ Ce projet implémente deux modèles différents pour classer les chiffres écrit
 
 1. **Clonez le dépôt** : 
    ```bash
-   git clone [URL_DU_DÉPÔT]
-   cd [NOM_DU_DÉPÔT]
+   git clone https://github.com/ADR-Clizy/Pytorch_NN_CNN.git
+   cd Pytorch_NN_CNN
    ```
 
 2. **Créez et activez un environnement virtuel (optionnel)** :
